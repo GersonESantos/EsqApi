@@ -1,19 +1,4 @@
 {
-  "nextId": 3,
-  "items": [
-    {
-      "id": 1,
-      "title": "fgdfgfdg",
-      "notes": "dfgfdgf",
-      "date": "2025-11-26",
-      "duration": 22
-    },
-    {
-      "id": 2,
-      "title": "Gerson",
-      "notes": "corrida",
-      "date": "2025-11-27",
-      "duration": 11
-    }
-  ]
+  "nextId": 1,
+  "items": []
 }
