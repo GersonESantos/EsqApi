@@ -1,4 +1,12 @@
 {
-  "nextId": 1,
-  "items": []
+  "nextId": 2,
+  "items": [
+    {
+      "id": 1,
+      "title": "ger",
+      "notes": "tstststtstts",
+      "date": "2025-11-27",
+      "duration": 50
+    }
+  ]
 }
